@@ -1,0 +1,32 @@
+Feature - 01
+a. Users can log in to website using email and password
+
+Feature - 02
+a. New users and lawyer can register using different forms
+
+Feature - 03
+a. Users can generate password reset using email by clicking on the link provided in the email
+
+Feature - 04 
+a. User can see the lawyer list
+
+Feature - 05
+a. Users can see the laws about specific problems 
+
+Feature - 06
+a. User can make a favorite list 
+
+Feature - 07    
+a. Customer can post his/her case to the website and it will be visible to all the lawyers
+
+Feature - 08
+a. User can rate the lawyer
+
+Feature - 09 
+a. Admin can see the customer list and lawyer list 
+
+Feature - 10
+a. Lawyer can see the case list and can pick the case which they want to handle
+
+
+Google APP PASS: qkmt eqqb fvvy oijr
